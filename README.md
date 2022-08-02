@@ -7,11 +7,11 @@ fancy movie clapper
 - We also added a series of three bright, white LEDs in parallel, running off a CR2032 battery. Wiring for LEDs was via copper tape
 - Dropping the clapper arm closed the circuit and activated the LEDs
 
-![movie_clapper_01](/render/movie_clapper_01.png)
-![movie_clapper_02](/render/movie_clapper_02.png)
-![movie_clapper_03](/render/movie_clapper_03.png)
-![movie_clapper_04](/render/movie_clapper_04.png)
-![movie_clapper_05](/render/movie_clapper_05.png)
-![movie_clapper_06](/render/movie_clapper_06.png)
-![movie_clapper_07](/render/movie_clapper_07.png)
-![movie_clapper_08](/render/movie_clapper_08.png)
+![movie_clapper_01](/renders/movie_clapper_01.png)
+![movie_clapper_02](/renders/movie_clapper_02.png)
+![movie_clapper_03](/renders/movie_clapper_03.png)
+![movie_clapper_04](/renders/movie_clapper_04.png)
+![movie_clapper_05](/renders/movie_clapper_05.png)
+![movie_clapper_06](/renders/movie_clapper_06.png)
+![movie_clapper_07](/renders/movie_clapper_07.png)
+![movie_clapper_08](/renders/movie_clapper_08.png)
